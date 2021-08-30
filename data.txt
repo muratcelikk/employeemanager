@@ -1,0 +1,7 @@
+{
+    "email": "john@getbay.com",
+    "imageUrl":"https://www.bootdey.com/snippets/view/bs4-vertical-user-profile-cover",
+    "jobTitle":"Java Developer",
+    "name":"Murat",
+    "phone":"656897303"
+}
